@@ -1,0 +1,117 @@
+.wrapperbutton {
+    text-align: center;
+}
+
+.typeform-share button {
+    position: absolute;
+    top: 50px;
+    top: 50%;
+}
+
+.box {
+	.image fit {
+		max-height: 60%;
+		width: auto;
+		background-size: contain;
+		position: absolute;
+		left: 30%;
+	}
+}
+
+
+
+#hhh {
+text-shadow: 4px 2px 5px #000000;
+}
+
+
+.body {
+	background-color: #ff80d5;
+}
+
+#googleForm {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+
+
+
+.idk {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.idk1 {
+	display: block;
+  margin-left: 23%;
+  margin-right: auto;
+  width: 65%;
+}
+
+.princi {
+	background-color: #484d5c;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.prin {
+	display: block;
+  margin-left: 32%;
+  margin-right: auto;
+  width: 50%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.reg {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.princ {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#regreg {
+	background-color: #cce6ff;
+}
+
+.idk11 {
+	display: block;
+  margin-left: 32%;
+  margin-right: auto;
+  width: 65%;
+}
+
+.idkkk {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 35vw;
+}
+
+.something {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
